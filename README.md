@@ -1,2 +1,14 @@
 # royaloubo-pages
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
